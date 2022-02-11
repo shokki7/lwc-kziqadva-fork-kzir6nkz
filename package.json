@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/shokki7.lwc-kziqadva-fork-kzir6nkz",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve qmijaLrsR8Q1KPOydErH --open"
+  }
+}
